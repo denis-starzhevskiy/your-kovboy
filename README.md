@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @your-kovboy
+- 👋 Hi, I’m @denis-starzhevskiy
 - 👀 I’m interested in programming, getting a real kick out of everything I do 
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on fascinating and not mediocre projects.
